@@ -1,6 +1,6 @@
 # vue-quiz
 
-## [Demo build](https://zabastx.github.io/vue-quiz/dist/)
+## [Demo build](https://vue-quiz-sqd3i.ondigitalocean.app)
 
 ## Project setup
 ```
