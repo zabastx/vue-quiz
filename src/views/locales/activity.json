@@ -1,0 +1,41 @@
+{
+    "en": {
+        "title1": "What's your level of daily activity?",
+        "title2": "Which time of the day do you feel most tired (think carefully)?",
+        "title3": "How often do you experience digestive upsets?",
+        "title4": "How often do you have uncontrollable cravings for specific foods?",
+        "p1": "E.g: bloating, cramps, constipation, diarrhea",
+        "p2": "Your digestion plays an important role in converting food into energy.",
+        "p3": "Your level of cravings tell us a lot about your metabolic health, and will help decode what your body is trying to tell you.",
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Morning": "Morning",
+        "Day": "Day",
+        "Evening": "Evening",
+        "Night": "Night",
+        "Never": "Never",
+        "Sometimes": "Sometimes",
+        "Often": "Often"
+    },
+
+    "fr": {
+        "title1": "Quel est votre niveau d'activité quotidienne?",
+        "title2": "À quel moment de la journée vous sentez-vous le plus fatigué (réfléchissez bien)?",
+        "title3": "Quelle est la fréquence de vos troubles digestifs?",
+        "title4": "A quelle fréquence avez-vous des envies incontrôlables pour des aliments spécifiques?",
+        "p1": "Par exemple : ballonnements, crampes, constipation, diarrhée.",
+        "p2": "Votre digestion joue un rôle important dans la transformation des aliments en énergie.",
+        "p3": "Votre niveau de fringales en dit long sur votre santé métabolique et vous aidera à décoder ce que votre corps essaie de vous dire.",
+        "Low": "Faible",
+        "Medium": "Moyen",
+        "High": "Haut",
+        "Morning": "Matin",
+        "Day": "Jour",
+        "Evening": "Soirée",
+        "Night": "Nuit",
+        "Never": "Jamais",
+        "Sometimes": "Parfois",
+        "Often": "Souvent"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "en": {
+        "title": "Get Your Keto Advice",
+        "subtitle": "Take this quick 2 minute quiz to personalize your plan",
+        "list": [
+            {
+                "title": "Weight loss estimation",
+                "text": "See what's possible in the next 28 days."
+            },
+            {
+                "title": "Keto Macronutrients",
+                "text": "Learn exact breakdown of carbs, fats, and protein for your body type."
+            },
+            {
+                "title": "Proper Keto nutritional supplements",
+                "text": "Know what pills are the best exactly for you"
+            }
+        ],
+        "fromCA": "Are you from Canada?",
+        "sorry": "Sorry, we operate only in Canada. Do you want to change your answer?",
+        "mBtn": "Men start here",
+        "femBtn": "Women start here"
+    },
+    "fr": {
+        "title": "Obtenez votre conseil Keto",
+        "subtitle": "Répondez à ce petit questionnaire de deux minutes pour personnaliser votre plan",
+        "list": [
+            {
+                "title": "Estimation de la perte de poids",
+                "text": "Voyez ce qui est possible dans les 28 prochains jours."
+            },
+            {
+                "title": "Macronutriments Keto",
+                "text": "Apprenez la répartition exacte des glucides, des graisses et des protéines pour votre type de corps."
+            },
+            {
+                "title": "Les bons compléments alimentaires Keto",
+                "text": "Savoir quelles pilules sont exactement les meilleures pour vous"
+            }
+        ],
+        "fromCA": "Vous êtes du Canada?",
+        "sorry": "Désolé, nous n'opérons qu'au Canada. Voulez-vous changer votre réponse?",
+        "mBtn": "Les hommes commencent ici",
+        "femBtn": "Les femmes commencent ici"
+    }
+}
